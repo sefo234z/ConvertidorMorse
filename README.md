@@ -1,0 +1,1 @@
+Programa básico desarrollado en C# que permite convertir texto a código Morse y realizar la conversión inversa de Morse a texto. Proyecto orientado a practicar el manejo de cadenas, diccionarios y lógica de conversión.
